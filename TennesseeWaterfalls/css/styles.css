@@ -154,9 +154,6 @@ footer {
 
     #lower_area {
         display: flex;
-
-        .column img {
-            width: 75%;
-        }
+        width: 75%;
     }
 }
