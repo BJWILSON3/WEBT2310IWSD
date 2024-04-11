@@ -1,0 +1,11 @@
+/* Styles for Mobile Phone */
+
+#header_img{ 
+    background-image:
+    background-size: cover;
+    background-position: center;
+}
+
+body {
+    background-color: #593202;
+}
