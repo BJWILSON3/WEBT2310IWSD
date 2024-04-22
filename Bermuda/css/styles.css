@@ -1,11 +1,16 @@
 /* Styles for Mobile Phone */
 
+body {
+    background-color: #000100;
+}
+
 #header_img { 
     background-image: url(../images/gibbsLH.jpeg);
     background-size: cover;
     background-position: center;
 }
 
-body {
-    background-color: #3ed7f2;
+#header { 
+    width: 55%;
 }
+
