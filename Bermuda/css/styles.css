@@ -1,16 +1,56 @@
 /* Styles for Mobile Phone */
 
 body {
-    background-color: #000100;
+    background-color: #010D00;
+    color:white;
+}
+
+.navbar {
+    background-color: #010D00;
 }
 
 #header_img { 
-    background-image: url(../images/gibbsLH.jpeg);
+    background-image: url(../images/gibbsLHmain.jpeg);
     background-size: cover;
     background-position: center;
 }
 
 #header { 
-    width: 55%;
+    width: 50%;
 }
 
+#button {
+    padding-top: -100%;
+    padding-left: 15px;
+    padding-bottom: -150px;
+}
+
+#Horseshoe { 
+    background-image: url(../images/HorseshoeBayBeach.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+#panel_bg {
+    width: 75%;
+}
+
+#Warwick{ 
+    background-image: url(../images/Warwick.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+#panel_bg {
+    width: 75%;
+}
+
+#Elbow { 
+    background-image: url(../images/Elbow.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+#panel_bg {
+    width: 75%;
+}
