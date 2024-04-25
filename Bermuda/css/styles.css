@@ -31,18 +31,10 @@ body {
     background-position: center;
 }
 
-#panel_bg {
-    width: 75%;
-}
-
 #Warwick{ 
     background-image: url(../images/Warwick.jpeg);
     background-size: cover;
     background-position: center;
-}
-
-#panel_bg {
-    width: 75%;
 }
 
 #Elbow { 
@@ -51,6 +43,8 @@ body {
     background-position: center;
 }
 
-#panel_bg {
-    width: 75%;
+@media (min-width: 1024px) {
+    #panel_bg {
+        width: 75%;
+    }
 }
