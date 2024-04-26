@@ -15,6 +15,12 @@ body {
     background-position: center;
 }
 
+#Reef_img { 
+    background-image: url(../images/Coralreef.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
 #header { 
     width: 50%;
 }
