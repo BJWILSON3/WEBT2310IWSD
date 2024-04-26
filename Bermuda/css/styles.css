@@ -21,6 +21,18 @@ body {
     background-position: center;
 }
 
+#Lighthouse_img { 
+    background-image: url(../images/gibbsLHmain.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+#Beach_img { 
+    background-image: url(../images/Bermudasunglasses.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
 #header { 
     width: 50%;
 }
